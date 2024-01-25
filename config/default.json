@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://guhan1012:guhan1012@gitconnector.xhxwgyp.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://guhan1012:guhan1012@gitconnector.xhxwgyp.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecretToken"
 }
